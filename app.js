@@ -1,3 +1,6 @@
+// The blog post that goes with this exercise is: 
+// https://ncoughlin.com/express-postman-writing-and-testing-routes/
+
 // ***************************
 // SETUP
 // ***************************
